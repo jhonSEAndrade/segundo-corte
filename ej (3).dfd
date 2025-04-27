@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+36
+'ingresa el valor de tres productos'
+5
+1
+5
+a,b,c
+6
+1
+1
+x
+5
+a+b+c
+7
+0
+1
+9
+100000>=x
+4
+1
+11
+'no aplica'
+13
+6
+1
+4
+desc
+12
+x-(x*15/100)
+4
+1
+53
+'felicidades solo tienes que pagar', desc, 'de pesos'
+13
+1
