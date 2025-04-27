@@ -1,0 +1,54 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+34
+'Ingrese la cantidad de ladrillos'
+5
+1
+3
+lad
+4
+1
+32
+'Ingrese el precio por ladrillo'
+5
+1
+5
+valor
+6
+1
+4
+cost
+9
+lad*valor
+7
+0
+1
+11
+cost>170000
+6
+2
+3
+iva
+11
+cost*19/100
+4
+masi
+8
+cost+iva
+4
+1
+49
+'El costo total mas iva de entrega es de  ', masi
+13
+4
+1
+21
+'Su costo es  ', cost
+13
+1
